@@ -3,3 +3,6 @@ assign/*
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# Large model data files
+*.h5
